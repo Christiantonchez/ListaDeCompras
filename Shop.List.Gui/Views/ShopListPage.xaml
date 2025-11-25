@@ -51,7 +51,7 @@
             Grid.Row="1"
             Grid.Column="2"
             Text="+"
-            Command="{Binding AddShopListItemComand}"/>
+            Command="{Binding AddShopListItemCommand}"/>
 
             <Button
             Grid.Row="1"
